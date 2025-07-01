@@ -26,7 +26,7 @@ It also features **basic NLP classification**, a dynamic **Streamlit web interfa
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/ai-security-chatbot.git
+git clone https://github.com/Bollyb/ai-security-chatbot.git
 cd ai-security-chatbot
 ```
 
